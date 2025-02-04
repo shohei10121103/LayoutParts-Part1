@@ -1,1 +1,61 @@
 @charset "UTF-8";
+
+.up-box{
+  width: 100%;
+  display: table;
+  text-align: center;
+}
+
+.box-red{
+  width: 300px;
+  background: #ff7b7b;
+  display: table-cell;
+  padding: 20px;
+}
+
+.box-blue{
+  background: #7b86ff;
+  display: table-cell;
+  padding: 20px;
+
+}
+
+.box-yellow{
+  background: #fff27b;
+  display: table-cell;
+  width: 300px;
+  padding: 20px;
+}
+
+.down-box{
+  margin-top: 50px;
+  width: 100%;
+  display: table;
+  text-align: center;
+}
+
+.box-green{
+  background: #7bff91;
+  display: table-cell;
+  padding: 20px;
+}
+
+.box-pink{
+  background: #ff7be2;
+  display: table-cell;
+  width: 400px;
+  padding: 20px;
+}
+
+.box-orange{
+  background: #ffc67b;
+  display: table-cell;
+  width: 400px;
+  padding: 20px;
+}
+
+.box-skyblue{
+  background: #7bf2ff;
+  display: table-cell;
+  padding: 20px;
+}
